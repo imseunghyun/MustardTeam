@@ -13,13 +13,9 @@ Mustard 팀의 프로젝트의 주제는 Network Diary입니다.
 사용할 플랫폼
 1. Linux
 2. C language
-3. C++ language
 
-Network Diary는 다음의 기능을 갖습니다.
-1. Server에 스케쥴 저장 (구현 예정)
-2. 스케쥴 관리
-  (1) 1시간 전 스케쥴 알림 (구현 예정)
-  (2) 스케쥴 중복 방지 (구현 예정)
-  (3) Terminal open시 스케쥴 알림 (구현 예정)
-3. GUI 추가
-4. Server에서 서로 다른 머신끼리의 통신 (구현 예정)
+Network Up and down는 다음의 기능을 갖습니다.
+1. Server & client (구현 완료) // 12.8
+2. Up and down 게임 규칙 (구현 완료) // 12.12
+3. 다중 클라이언트 접속 허용 // 12.15
+4. 프로젝트 결과 완료 // 12.16
